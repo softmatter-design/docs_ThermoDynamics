@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="JXWDQLbixWlmeDXeMUZs" name="ページ1">
+        <mxGraphModel dx="666" dy="1301" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="10" value="flowchart TB&#10;a1[&quot;基本的な事項の確認&quot;]&#10;a2[&quot;第一法則について&quot;]&#10;a3[&quot;内部エネルギーの微分表現&quot;]&#10;a4[&quot;第二法則とエントロピー&quot;]&#10;a5[&quot;熱力学ポテンシャルとは？&quot;]&#10;a6[[&quot;総合的な演習問題&quot;]]&#10;&#10;a1--&gt;a2--&gt;a3--&gt;a4--&gt;a5--&gt;a6&#10;&#10;" style="shadow=0;dashed=0;align=left;strokeWidth=1;shape=mxgraph.mermaid.abstract.mermaid;labelBackgroundColor=#ffffff;noLabel=1;theme=default;" vertex="1" parent="1">
+                    <mxGeometry x="163" y="677" width="302" height="399" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
